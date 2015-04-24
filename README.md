@@ -1,6 +1,7 @@
 # Ethernet Shield List
 
-### WIZnet
+### WIZnet - **W5100, W5200, W5500**
+------
 
 - Name | Maker | Chipset | Product link
 - Ethernet Shield | Adafruit | W5100 |http://www.ladyada.net/make/eshield/ 
@@ -58,6 +59,7 @@
 - Arduino Ethernet Shield R3 Optimized Version | Unknown | W5100 |http://www.lelong.com.my/arduino-ethernet-shield-r3-optimized-version-pier-I1407498B-2007-01-Sale-I.htm |
 
 ### Others
+------
 
 - Name | Company | Chipset | Product link
 - Ethernet Shield | Adafruit | Xport | lantronix |http://www.ladyada.net/make/eshield/examples.html
