@@ -1,8 +1,8 @@
 # Ethernet Shield List
 
 What is the "Ethernet Shield"?
+<img width=200 src=http://arduino.cc/en/uploads/Main/ArduinoEthernetShield_R3_Front_450px.jpg >
 > The Arduino Ethernet Shield connects your Arduino to the internet in mere minutes. Just plug this module onto your Arduino board, connect it to your network with an RJ45 cable (not included) and follow a few simple instructions to start controlling your world through the internet. 
-<img src=http://arduino.cc/en/uploads/Main/ArduinoEthernetShield_R3_Front_450px.jpg>
 *from http://www.arduino.cc/en/Main/ArduinoEthernetShield*
 
 ### WIZnet - **W5100, W5200, W5500**
