@@ -5,6 +5,7 @@
 
 #### W5500
 ----
+- *Name | Maker | Chipset | Product link*
 - W5500 Ethernet Shield | WIZnet | W5500 | http://wizwiki.net/wiki/doku.php?id=osh:w5500_ethernet_shield:start
 - SweetPea UnoNet+ : Ethernet and NFC in one board | ElectronicSweetpeas | W5500 | http://www.sweetpeas.se/product.php?id_product=273
 - POE W5500 Ethernet Shield | Iteadstudio | W5500? | http://wiki.iteadstudio.com/POE_W5500_Ethernet_Shield
@@ -61,6 +62,7 @@
 #### W5200
 ----
 
+- *Name | Maker | Chipset | Product link*
 - Ethernet Shield W5200 DF-DFR0272 | DFRobot | W5200 | http://www.dfrobot.com/index.php?route=product/product&filter_name=ethernet&product_id=1028#
 - W5200 DFRduino Ethernet Expansion Board  | DFRobot | W5200 | http://www.dx.com/p/w5200-dfrduino-ethernet-expansion-board-deep-blue-works-with-arduino-official-boards-291788#
 - W5200 Ethernet Shield | Elecrow | W5200 | http://www.elecrow.com/arduino-compatiable-c-109/shield-c-109_110/w5200-ethernet-shield-p-367.html
