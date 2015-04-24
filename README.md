@@ -2,11 +2,19 @@
 
 ### WIZnet - **W5100, W5200, W5500**
 ------
-- *Name | Maker | Chipset | Product link*
-- 
+
+#### W5500
+----
+- W5500 Ethernet Shield | WIZnet | http://wizwiki.net/wiki/doku.php?id=osh:w5500_ethernet_shield:start
+- SweetPea UnoNet+ : Ethernet and NFC in one board | ElectronicSweetpeas | W5500 | http://www.sweetpeas.se/product.php?id_product=273
+- POE W5500 Ethernet Shield | Iteadstudio | W5500? |http://wiki.iteadstudio.com/POE_W5500_Ethernet_Shield
+- W5500 Ethernet Shield v1.0 | Seeed Studio | W5500 |http://www.seeedstudio.com/wiki/W5500_Ethernet_Shield_v1.0
+- Arduino W5500 shield | swbee | W5500 |http://item.taobao.com/item.htm?spm=a230r.1.14.1.erqn3x&id=40362096833&ns=1&abbucket=20#detail
+
 #### W5100
 ----
 
+- *Name | Maker | Chipset | Product link*
 - Ethernet Shield | Adafruit | W5100 |http://www.ladyada.net/make/eshield/ 
 - Ethernet Microcontroller (No PoE) (am-2287) | Andy Mark | W5100 |http://www.andymark.com/product-p/am-2287.htm
 - Arduino Ethernet | Arduino | W5100 |http://arduino.cc/en/Main/ArduinoBoardEthernet
@@ -49,14 +57,6 @@
 - Ethernet Shield  | Tinker.it | W5100 |http://www.liquidware.com/shop/show/ETH/Ethernet+Shield
 - Tronixlabs W5100 Ethernet shield microSD | Tronixlabs  | W5100 |http://tronixlabs.com/arduino/shields/ethernet/tronixlabs-w5100-ethernet-shield-for-arduino-with-microsd-card-socket/
 - Arduino Ethernet Shield R3 Optimized Version | Unknown | W5100 |http://www.lelong.com.my/arduino-ethernet-shield-r3-optimized-version-pier-I1407498B-2007-01-Sale-I.htm |
-
-#### W5500
-----
-
-- SweetPea UnoNet+ : Ethernet and NFC in one board | ElectronicSweetpeas | W5500 | http://www.sweetpeas.se/product.php?id_product=273
-- POE W5500 Ethernet Shield | Iteadstudio | W5500? |http://wiki.iteadstudio.com/POE_W5500_Ethernet_Shield
-- W5500 Ethernet Shield v1.0 | Seeed Studio | W5500 |http://www.seeedstudio.com/wiki/W5500_Ethernet_Shield_v1.0
-- Arduino W5500 shield | swbee | W5500 |http://item.taobao.com/item.htm?spm=a230r.1.14.1.erqn3x&id=40362096833&ns=1&abbucket=20#detail
 
 #### W5200
 ----
