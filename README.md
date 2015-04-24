@@ -2,8 +2,11 @@
 
 ### WIZnet - **W5100, W5200, W5500**
 ------
+- *Name | Maker | Chipset | Product link*
+- 
+#### W5100
+----
 
-- Name | Maker | Chipset | Product link
 - Ethernet Shield | Adafruit | W5100 |http://www.ladyada.net/make/eshield/ 
 - Ethernet Microcontroller (No PoE) (am-2287) | Andy Mark | W5100 |http://www.andymark.com/product-p/am-2287.htm
 - Arduino Ethernet | Arduino | W5100 |http://arduino.cc/en/Main/ArduinoBoardEthernet
@@ -15,15 +18,11 @@
 - DFRduino Ethernet Shield V2.1 (Support Mega and Micro SD) | DFRobot | W5100 | http://www.dfrobot.com/index.php?route=product/product&filter_name=ethernet&page=2&product_id=455#
 - Ethernet Shield W5100 | DFRobot | W5100 |http://www.dfrobot.com/index.php?route=product/product&filter_name=ethernet&page=1&product_id=52#
 - XBoard V2-A bridge between home and internet | DFRobot | W5100 |http://www.dfrobot.com/index.php?route=product/product&path=52_104&product_id=564#
-- Ethernet Shield W5200 DF-DFR0272 | DFRobot | W5200 |http://www.dfrobot.com/index.php?route=product/product&filter_name=ethernet&product_id=1028#
-- W5200 DFRduino Ethernet Expansion Board  | DFRobot | W5200 |http://www.dx.com/p/w5200-dfrduino-ethernet-expansion-board-deep-blue-works-with-arduino-official-boards-291788#
 - W5100 Ethernet Shield | e-Gizmo | W5100 | http://www.e-gizmo.com/KIT/wiznet.html
 - Arduino Ethernet Shield | ELEC House | W5100 |http://www.elechouse.com/elechouse/index.php?main_page=product_info&cPath=90_232&products_id=2128
 - Ethernet Shield | Elecfreaks | W5100 |http://www.elecfreaks.com/store/ethernet-shield-p-710.html
 - Ethernet Shield - W5100 | Elecfreaks | W5100 |http://www.elecfreaks.com/store/ethernet-shield-with-micro-sd-w5100-p-372.html
 - NX Bridge include Bee adapter | Elecfreaks | W5100 |http://www.elecfreaks.com/store/nx-bridge-include-bee-adapter-p-621.html
-- W5200 Ethernet Shield | Elecrow | W5200 |http://www.elecrow.com/arduino-compatiable-c-109/shield-c-109_110/w5200-ethernet-shield-p-367.html
-- SweetPea UnoNet+ : Ethernet and NFC in one board | ElectronicSweetpeas | W5500? | http://www.sweetpeas.se/product.php?id_product=273
 - Freeduino Ethernet Module E-Shield v2 | Freeduino | W5100 |http://freeduino.ru/arduino/eshield_v2.html
 - Ethernet Shield | Freetronics | W5100 |http://www.freetronics.com/collections/shields/products/ethernet-shield-with-poe#
 - EtherMega | Freetronics | W5100 |http://www.freetronics.com/collections/arduino/products/ethermega-arduino-mega-2560-compatible-with-onboard-ethernet#
@@ -37,31 +36,42 @@
 - W5100 Ethernet Module With POE/Xbee/SD Slot Iboard For Arduino | Iteadstudio | W5100 | http://wiki.iteadstudio.com/IBoard
 - IBoard Ex | Iteadstudio | W5100 | http://wiki.iteadstudio.com/IBoard_Ex
 - IBoard Pro | Iteadstudio | W5100 |http://wiki.iteadstudio.com/IBoard_Pro
-- POE W5500 Ethernet Shield | Iteadstudio | W5500? |http://wiki.iteadstudio.com/POE_W5500_Ethernet_Shield
 - Korduino Ethernet Shield  | JK | W5100 |http://www.deviceshop.net/front/php/product.php?product_no=401&main_cate_no=77&display_group=1
 - Ethernet Shield | linksprite | W5100 |http://store.linksprite.com/ethernet-shield/
 - Ethernet W5100 R3 Shield Network Board | Lseeduino | W5100 |http://www.dx.com/p/ethernet-w5100-r3-shield-network-board-supports-mega-tf-rj-45-works-with-official-arduino-board-290402#
-- W5200 Ethernet Shield for Arduino | Maker Studio | W5200 |http://makerstudio.cc/index.php?main_page=product_info&cPath=39&products_id=317
-- Ethernet Shield | NKC Electronics | WIZ812MJ |http://mcukits.com/2009/04/22/nkc-ethernet-shield-for-arduino-assembly-guide/
+- Ethernet Shield | NKC Electronics | W5100 |http://mcukits.com/2009/04/22/nkc-ethernet-shield-for-arduino-assembly-guide/
 - Zduino Ethernet | OpenJumper | W5100 |http://store.openjumper.com/index.php?route=product/product&path=10&product_id=103
 - Ethernet Shield W5100 | Sainsmart | W5100 |http://www.sainsmart.com/sainsmart-ethernet-shield-w5100-for-arduino.html
 - WIZnet Ethernet Shield | Seeed Studio | W5100 |http://www.seeedstudio.com/depot/ethernet-shield-p-518.html
 - Seeeduino Ethernet | Seeed Studio | W5100 |http://www.seeedstudio.com/depot/Seeeduino-Ethernet-p-1231.html
-- W5200 Ethernet Shield v2 | Seeed Studio | W5200 |http://www.seeedstudio.com/depot/w5200-ethernet-shield-p-1577.html?cPath=19_17
-- W5500 Ethernet Shield v1.0 | Seeed Studio | W5500 |http://www.seeedstudio.com/wiki/W5500_Ethernet_Shield_v1.0
 - PoEthernet Shield | Sparkfun | W5100 |http://induino.blogspot.kr/2012/07/induinox-user-guide-interfacing-with_30.html
 - Ethernet Pro | Sparkfun | W5100 |http://www.hwkitchen.com/products/ethernet-pro/
-- Arduino W5500 shield | swbee | W5500 |http://item.taobao.com/item.htm?spm=a230r.1.14.1.erqn3x&id=40362096833&ns=1&abbucket=20#detail
 - Ethernet Shield  | Tinker.it | W5100 |http://www.liquidware.com/shop/show/ETH/Ethernet+Shield
 - Tronixlabs W5100 Ethernet shield microSD | Tronixlabs  | W5100 |http://tronixlabs.com/arduino/shields/ethernet/tronixlabs-w5100-ethernet-shield-for-arduino-with-microsd-card-socket/
+- Arduino Ethernet Shield R3 Optimized Version | Unknown | W5100 |http://www.lelong.com.my/arduino-ethernet-shield-r3-optimized-version-pier-I1407498B-2007-01-Sale-I.htm |
+
+#### W5500
+----
+
+- SweetPea UnoNet+ : Ethernet and NFC in one board | ElectronicSweetpeas | W5500 | http://www.sweetpeas.se/product.php?id_product=273
+- POE W5500 Ethernet Shield | Iteadstudio | W5500? |http://wiki.iteadstudio.com/POE_W5500_Ethernet_Shield
+- W5500 Ethernet Shield v1.0 | Seeed Studio | W5500 |http://www.seeedstudio.com/wiki/W5500_Ethernet_Shield_v1.0
+- Arduino W5500 shield | swbee | W5500 |http://item.taobao.com/item.htm?spm=a230r.1.14.1.erqn3x&id=40362096833&ns=1&abbucket=20#detail
+
+#### W5200
+----
+
+- Ethernet Shield W5200 DF-DFR0272 | DFRobot | W5200 |http://www.dfrobot.com/index.php?route=product/product&filter_name=ethernet&product_id=1028#
+- W5200 DFRduino Ethernet Expansion Board  | DFRobot | W5200 |http://www.dx.com/p/w5200-dfrduino-ethernet-expansion-board-deep-blue-works-with-arduino-official-boards-291788#
+- W5200 Ethernet Shield | Elecrow | W5200 |http://www.elecrow.com/arduino-compatiable-c-109/shield-c-109_110/w5200-ethernet-shield-p-367.html
+- W5200 Ethernet Shield for Arduino | Maker Studio | W5200 |http://makerstudio.cc/index.php?main_page=product_info&cPath=39&products_id=317
+- W5200 Ethernet Shield v2 | Seeed Studio | W5200 |http://www.seeedstudio.com/depot/w5200-ethernet-shield-p-1577.html?cPath=19_17
 - WIZnet W5200 Ethernet shield | WIZnet  | W5200 |http://wiznet.co.kr/sub_modules/kr/product/Product_Detail.asp?cate1=5&cate2=81&cate3=82&pid=1208
 - ioShield-A | WIZnet  | W5500 | http://wizwiki.net/wiki/doku.php?id=osh:ioshield-a:start
-- Arduino Ethernet Shield R3 Optimized Version | Unknown | W5100 |http://www.lelong.com.my/arduino-ethernet-shield-r3-optimized-version-pier-I1407498B-2007-01-Sale-I.htm |
 
 ### Others
 ------
-
-- Name | Company | Chipset | Product link
+- *Name | Company | Chipset | Product link*
 - Ethernet Shield | Adafruit | Xport | lantronix |http://www.ladyada.net/make/eshield/examples.html
 - Ethernet Shield ENC28J60 for Arduino Nano | Aura | ENC28j60 |http://aura-comms.com/ethernet-shield-enc28j60-for-arduino-nano.html
 - ENC28J60 Ethernet Module (Shield) | e-Gizmo | ENC28j60 |http://www.e-gizmo.com/KIT/ethernet%20shield.html
