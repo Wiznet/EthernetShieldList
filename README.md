@@ -16,6 +16,8 @@ What is the "Ethernet Shield"?
 - POE W5500 Ethernet Shield | Iteadstudio | W5500? | http://wiki.iteadstudio.com/POE_W5500_Ethernet_Shield
 - W5500 Ethernet Shield v1.0 | Seeed Studio | W5500 | http://www.seeedstudio.com/wiki/W5500_Ethernet_Shield_v1.0
 - Arduino W5500 shield | swbee | W5500 | http://item.taobao.com/item.htm?spm=a230r.1.14.1.erqn3x&id=40362096833&ns=1&abbucket=20#detail
+- SweetPea NetFox : Ethernet and NFC in one board | ElectronicSweetpeas | W5500 | http://www.sweetpeas.se/shields/22-sweetpea-netfox.html
+- POE W5500 Ethernet Shield | icstation | W5500 | http://www.icstation.com/w5500-ethernet-shield-micro-socket-arduino-p-5305.html
 
 #### W5100
 ----
