@@ -14,6 +14,7 @@ What is the "Ethernet Shield"?
 | Name | Maker | Chipset | Product link |
 |------|-------|---------|--------------|
 | ARDUINO MKR ETH SHIELD | Arduino | W5500 | [Product Link](https://store.arduino.cc/usa/arduino-mkr-eth-shield) |
+| W5500 Ethernet Shield S(secure) | EWBM | W5500 | [Product Link](https://www.e-wbm.com/wiznet_w5500.do) |
 | Arduino Ethernet Shield 2 | Arduino | W5500 | [Product Link](https://store.arduino.cc/usa/arduino-ethernet-shield-2) |
 | W5500 Ethernet Shield | WIZnet | W5500 | [Product Link](http://wizwiki.net/wiki/doku.php?id=osh:w5500_ethernet_shield:start ) |
 | SweetPea UnoNet+ : Ethernet and NFC in one board | ElectronicSweetpeas | W5500 | [Product Link](http://www.sweetpeas.se/product.php?id_product=273 ) |
