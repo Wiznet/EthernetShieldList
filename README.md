@@ -6,8 +6,11 @@ What is the "Ethernet Shield"?
 > The Arduino Ethernet Shield connects your Arduino to the internet in mere minutes. Just plug this module onto your Arduino board, connect it to your network with an RJ45 cable (not included) and follow a few simple instructions to start controlling your world through the internet.
 *from [Ethernet Shield](http://www.arduino.cc/en/Main/ArduinoEthernetShield)*
 
+## WIZnet - **W5100, W5200, W5500, W5100S, W6100**
 
-## WIZnet - **W5100, W5200, W5500**
+### W6100
+| Name | Maker | Chipset | Product link |
+|------|-------|---------|--------------|
 
 ### W5500
 
@@ -23,6 +26,11 @@ What is the "Ethernet Shield"?
 | Arduino W5500 shield | swbee | W5500 | [Product Link](http://item.taobao.com/item.htm?spm=a230r.1.14.1.erqn3x&id=40362096833&ns=1&abbucket=20#detail ) |
 | SweetPea NetFox : Ethernet and NFC in one board | ElectronicSweetpeas | W5500 | [Product Link](http://www.sweetpeas.se/shields/22-sweetpea-netfox.html ) |
 
+### W5100S
+| Name | Maker | Chipset | Product link |
+|------|-------|---------|--------------|
+| W5100S MKR-Ethernet Shield | WIZnet | W5100S | [Product Link](https://www.wiznet.io/product-item/w5100s_mkr-ethernet_shield/ ) |
+| W5100S Ethernet Shield | WIZnet | W5100S | [Product Link](https://www.wiznet.io/product-item/w5100s-ethernet-shield/ ) |
 
 ### W5100
 
